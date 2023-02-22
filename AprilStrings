@@ -1,0 +1,6 @@
+function is_Blank (input) {
+    if (input.length === 0)
+    return true;
+    else 
+    return false;
+  }

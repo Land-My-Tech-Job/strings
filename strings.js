@@ -10,6 +10,7 @@
 
 // The function should return the array of words.
 
+
 // Problem Three
 
 // Write a JavaScript function abbreviateName(name) to convert a string (a person’s first and last names) to abbreviated form. If there is only a first name listed, then return just that name.
